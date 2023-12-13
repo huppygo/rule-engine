@@ -1,4 +1,4 @@
-name: docker-image-arm64-v0.5.3
+name: docker-image-arm64-v0.4.5
 
 on:
   workflow_dispatch:
